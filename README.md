@@ -1,4 +1,5 @@
 📊 City Safety & Incident Analytics Dashboard
+
 🔎 Project Overview
 This project demonstrates an end-to-end Business Intelligence workflow using SQL, Power Query, DAX, and Power BI.
 The goal is to analyze urban safety incidents (simulated CCTV logs + demographic data) and provide actionable insights for city management.
@@ -38,6 +39,14 @@ This dashboard answers these questions with interactive visualizations and data-
 - Interactive Filters: District, incident type, time period
 - Forecasting: Predict incident trends for next 6 months
 - Role-Level Security (RLS): District-level access control
+
+✅ Now you have four CSV files ready to drop into your /Data folder:
+- nyc_311_sample.csv
+- locations.csv
+- demographics.csv
+- calendar.csv
+
+
 
 📂 Repository Structure
 
@@ -81,5 +90,4 @@ This dashboard answers these questions with interactive visualizations and data-
 - Integrate predictive analytics with Python/R
 - Expand to include traffic and environmental data
 
-👉 This README positions you as someone who can design, clean, model, and visualize data professionally.
-Would you like me to also draft a second README.md template for a business-focused project (like Retail Sales Dashboard) so you can show variety in your portfolio?
+
